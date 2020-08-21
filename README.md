@@ -1,2 +1,2 @@
 # Image-Classification-on-Flask
-Web Deployment ~ On Going Project
+Web Deployment project of Image classification using on model using flask 
