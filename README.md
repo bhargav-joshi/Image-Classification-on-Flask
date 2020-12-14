@@ -14,6 +14,13 @@ Easier way to classification.
 
 We take the image from user and classifies it based on our model which is already created and saved. 
 
+# Requirements 
+
+- `Tensorflow`
+-   `Keras`
+-   `Flask`
+-   `Python`
+
 # How to run this Locally on Pc/Laptop?
 
 1) For this you need to install Python & flask first
